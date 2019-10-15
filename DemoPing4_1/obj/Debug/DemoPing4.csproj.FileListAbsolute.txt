@@ -1,0 +1,40 @@
+D:\năm 3\Project1\DemoPing4\DemoPing4\bin\Debug\DemoPing4.exe.config
+D:\năm 3\Project1\DemoPing4\DemoPing4\bin\Debug\DemoPing4.exe
+D:\năm 3\Project1\DemoPing4\DemoPing4\bin\Debug\DemoPing4.pdb
+D:\năm 3\Project1\DemoPing4\DemoPing4\obj\Debug\DemoPing4.csprojAssemblyReference.cache
+D:\năm 3\Project1\DemoPing4\DemoPing4\obj\Debug\DemoPing4.Form1.resources
+D:\năm 3\Project1\DemoPing4\DemoPing4\obj\Debug\DemoPing4.Properties.Resources.resources
+D:\năm 3\Project1\DemoPing4\DemoPing4\obj\Debug\DemoPing4.csproj.GenerateResource.cache
+D:\năm 3\Project1\DemoPing4\DemoPing4\obj\Debug\DemoPing4.csproj.CoreCompileInputs.cache
+D:\năm 3\Project1\DemoPing4\DemoPing4\obj\Debug\DemoPing4.exe
+D:\năm 3\Project1\DemoPing4\DemoPing4\obj\Debug\DemoPing4.pdb
+D:\năm 3\WEB\HTML\DemoPing4\DemoPing4\bin\Debug\DemoPing4.exe.config
+D:\năm 3\WEB\HTML\DemoPing4\DemoPing4\bin\Debug\DemoPing4.exe
+D:\năm 3\WEB\HTML\DemoPing4\DemoPing4\bin\Debug\DemoPing4.pdb
+D:\năm 3\WEB\HTML\DemoPing4\DemoPing4\obj\Debug\DemoPing4.csprojAssemblyReference.cache
+D:\năm 3\WEB\HTML\DemoPing4\DemoPing4\obj\Debug\DemoPing4.Form1.resources
+D:\năm 3\WEB\HTML\DemoPing4\DemoPing4\obj\Debug\DemoPing4.Properties.Resources.resources
+D:\năm 3\WEB\HTML\DemoPing4\DemoPing4\obj\Debug\DemoPing4.csproj.GenerateResource.cache
+D:\năm 3\WEB\HTML\DemoPing4\DemoPing4\obj\Debug\DemoPing4.csproj.CoreCompileInputs.cache
+D:\năm 3\WEB\HTML\DemoPing4\DemoPing4\obj\Debug\DemoPing4.exe
+D:\năm 3\WEB\HTML\DemoPing4\DemoPing4\obj\Debug\DemoPing4.pdb
+C:\Users\lgn\Desktop\Project1-master\DemoPing4\DemoPing4\bin\Debug\DemoPing4.exe.config
+C:\Users\lgn\Desktop\Project1-master\DemoPing4\DemoPing4\bin\Debug\DemoPing4.exe
+C:\Users\lgn\Desktop\Project1-master\DemoPing4\DemoPing4\bin\Debug\DemoPing4.pdb
+C:\Users\lgn\Desktop\Project1-master\DemoPing4\DemoPing4\obj\Debug\DemoPing4.csprojAssemblyReference.cache
+C:\Users\lgn\Desktop\Project1-master\DemoPing4\DemoPing4\obj\Debug\DemoPing4.Form1.resources
+C:\Users\lgn\Desktop\Project1-master\DemoPing4\DemoPing4\obj\Debug\DemoPing4.Properties.Resources.resources
+C:\Users\lgn\Desktop\Project1-master\DemoPing4\DemoPing4\obj\Debug\DemoPing4.csproj.GenerateResource.cache
+C:\Users\lgn\Desktop\Project1-master\DemoPing4\DemoPing4\obj\Debug\DemoPing4.csproj.CoreCompileInputs.cache
+C:\Users\lgn\Desktop\Project1-master\DemoPing4\DemoPing4\obj\Debug\DemoPing4.exe
+C:\Users\lgn\Desktop\Project1-master\DemoPing4\DemoPing4\obj\Debug\DemoPing4.pdb
+C:\Users\lgn\Desktop\Project1-master\DemoPing4\DemoPing4_1\bin\Debug\DemoPing4.exe.config
+C:\Users\lgn\Desktop\Project1-master\DemoPing4\DemoPing4_1\bin\Debug\DemoPing4.exe
+C:\Users\lgn\Desktop\Project1-master\DemoPing4\DemoPing4_1\bin\Debug\DemoPing4.pdb
+C:\Users\lgn\Desktop\Project1-master\DemoPing4\DemoPing4_1\obj\Debug\DemoPing4.csprojAssemblyReference.cache
+C:\Users\lgn\Desktop\Project1-master\DemoPing4\DemoPing4_1\obj\Debug\DemoPing4.Form1.resources
+C:\Users\lgn\Desktop\Project1-master\DemoPing4\DemoPing4_1\obj\Debug\DemoPing4.Properties.Resources.resources
+C:\Users\lgn\Desktop\Project1-master\DemoPing4\DemoPing4_1\obj\Debug\DemoPing4.csproj.GenerateResource.cache
+C:\Users\lgn\Desktop\Project1-master\DemoPing4\DemoPing4_1\obj\Debug\DemoPing4.csproj.CoreCompileInputs.cache
+C:\Users\lgn\Desktop\Project1-master\DemoPing4\DemoPing4_1\obj\Debug\DemoPing4.exe
+C:\Users\lgn\Desktop\Project1-master\DemoPing4\DemoPing4_1\obj\Debug\DemoPing4.pdb
